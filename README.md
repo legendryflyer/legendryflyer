@@ -48,9 +48,3 @@
 
 ###
 
-<script>
-    insta=document.getElementById("1")
-    insta.addEventListner( "click", () => {
-        window.open('https://www.instagram.com/_.tavish')
-    })
-</script>
