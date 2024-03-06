@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=legendryflyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendryflyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://camo.githubusercontent.com/b50a6c1740d788da30cb194a476c06e1cc72652fef9a473e2ec9b8c4a47bf1ca/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d66616569716b68616e266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33" hight="150">
 </div>
 
 ###
