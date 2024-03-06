@@ -50,3 +50,10 @@
 
 ###
 
+<script>
+  insta = getElementById('1')
+  insta.addEventListner("click",function(){
+    window.open(insta.href,"https://www.instagram.com/_.tavish/")
+  })
+</script>
+
