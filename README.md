@@ -11,7 +11,7 @@
   <img src="https://streak-stats.demolab.com?user=legendryflyer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3 align="left">Skills
+<h2 align="left">Skills
   <a href="https://javascript.info/" target="_blank">
     <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="images/javascript-39404.png" />
   </a>
@@ -47,7 +47,7 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img align="left" title="C#" alt="C#" width="40px" src="images/c-sharp.png" />
   </a>
-</h3>
+</h2>
 
 
 
