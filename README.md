@@ -46,7 +46,7 @@
 
 <br/><h2 align="left">Follow Me on </h2>
 <div>
-  <a herf="https://www.instagram.com/_.tavish" target="_blank">
+  <a href="https://www.instagram.com/_.tavish" target="_blank">
     <img src="images/instagram (1).png" align="left" title="Instagram" alt="Instagram" width="40px">
   </a>  
 </div>
