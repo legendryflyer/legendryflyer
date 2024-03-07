@@ -1,5 +1,7 @@
-<h2 align="left">Hi 👋! My name is Tavish Anade and I'm a Developer, from Nagpur,<img src="https://flagcdn.com/w20/in.png" srcset="https://flagcdn.com/w40/in.png 2x" width="20"
-  height="13"
+<h2 align="left">Hi 👋! My name is Tavish Anade and I'm a Developer, from Nagpur, <img src="https://flagcdn.com/w40/in.png"
+  srcset="https://flagcdn.com/w80/in.png 2x"
+  width="40"
+  height="27"
   alt="India"></img> India.
 </h2>
 
