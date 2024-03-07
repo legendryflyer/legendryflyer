@@ -55,7 +55,7 @@
 </div>
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="images/javascript-39404.png" />
 </a>
 
 <a href="https://pt-br.reactjs.org" target="_blank">
