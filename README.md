@@ -12,9 +12,10 @@
 </div>
 
 <h2 align="left">Skills
-  <a href="https://javascript.info/" target="_blank">
-    <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="images/javascript-39404.png" />
-  </a>
+  <div>
+    <a href="https://javascript.info/" target="_blank">
+      <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="images/javascript-39404.png" />
+    </a>
 
   <a href="https://www.python.org/" target="_blank">
     <img align="left" title="Python" alt="Python" width="40px" src="images/python.png" />
@@ -47,6 +48,7 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img align="left" title="C#" alt="C#" width="40px" src="images/c-sharp.png" />
   </a>
+  </div>
 </h2>
 
 
