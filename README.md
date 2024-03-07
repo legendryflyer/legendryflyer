@@ -49,6 +49,15 @@
   <a href="https://www.instagram.com/_.tavish" target="_blank">
     <img src="images/instagram (1).png" align="left" title="Instagram" alt="Instagram" width="40px">
   </a>  
+  <a href="https://www.linkedin.com/in/tavish-anade-468680229/" target="_blank">
+    <img src="images/linkedin.png" align="left" title="LinkedIn" alt="LinkedIn" width="40px">
+  </a>
+  <a href="https://twitter.com/legendryflyer" target="_blank">
+    <img src="images/twitter.png" align="left" title="X" alt="X" width="40px">
+  </a> 
+  <a href="https://www.upwork.com/freelancers/~01c50cafab587b6d25" target="_blank">
+    <img src="images/icons8-upwork-500.png" align="left" title="upwork" alt="upwork" width="40px">
+  </a>  
 </div>
 
 
