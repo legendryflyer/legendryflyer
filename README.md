@@ -56,6 +56,9 @@
   <a href="https://www.linkedin.com/in/tavish-anade-468680229/" target="_blank">
     <img src="images/linkedin.png" align="left" title="LinkedIn" alt="LinkedIn" width="40px">
   </a>
+    <a href="tavishanade12@gmail.com" target="_blank">
+    <img src="images/gmail.png" align="left" title="gmail" alt="gmail" width="40px">
+  </a> 
   <a href="https://twitter.com/legendryflyer" target="_blank">
     <img src="images/twitter.png" align="left" title="X" alt="X" width="40px">
   </a> 
