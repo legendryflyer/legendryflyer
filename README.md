@@ -7,7 +7,7 @@
 
 <h2 align="left">About  Me </h2>
 <p align="left">--Creating Bugs since 2023.<br/>--I am currently learning React.js, Django and DSA.<br/>--Goles: Get Successfull at the age of 24.<br/>--Fun Fact: I hate Physics.<br/>
---My E-mail:<a href="tavishanade12@gmail.com"> tavishanade12@gmail.com</a><br/>
+--My E-mail: tavishanade12@gmail.com<br/>
 </p>
 
 <h2 align="left">GitHub Statistics</h2>
