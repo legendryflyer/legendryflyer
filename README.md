@@ -37,7 +37,7 @@
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img align="left" title="HTML" alt="HTML" width="40px" src="images/html.png" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a href="" target="_blank">
     <img align="left" title="CSS" alt="CSS" width="40px" src="images/css-3.png" />
   </a>
   <a href="https://www.programiz.com/cpp-programming" target="_blank">
