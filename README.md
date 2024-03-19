@@ -6,7 +6,7 @@
 </h2>
 
 <h2 align="left">About  Me </h2>
-<p align="left">--Creating Bugs since 2023.<br/>--I am currently learning React.js, Django and DSA.<br/>--Goles: Get Successfull at the age of 24.<br/>--Fun Fact: I hate Physics.<br/>
+<p align="left">--Creating Bugs since 2023.<br/>--I am currently learning React.js and Django.<br/>--Goles: Get Successfull at the age of 24.<br/>--Fun Fact: I hate Physics.<br/>
 --My E-mail: tavishanade12@gmail.com<br/>
 </p>
 
