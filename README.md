@@ -64,7 +64,7 @@
   <a href="https://www.upwork.com/freelancers/~01c50cafab587b6d25" target="_blank">
     <img src="images/icons8-upwork-500.png" align="left" title="upwork" alt="upwork" width="40px">
   </a> 
-  <a href="https://mail.google.com/mail/u/0/?tab=cm#inbox?compose=new" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?to=tavishanade12@gmail.com&su=&body=&fs=1&tf=cm" target="_blank">
     <img src="images/gmail.png" align="left" title="G-mail" alt="G-mail" width="40px">
   </a>   
 </div>
