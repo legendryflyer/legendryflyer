@@ -75,8 +75,6 @@ tavishanade12@gmail.com<br/>
 
 ###
 
-<br><h2 align="center">😲 My Contributions</h2>
 
-![snake gif](https://github.com/legendryflyer/legendryflyer/blob/output/github-contribution-grid-snake.svg)
 
 
