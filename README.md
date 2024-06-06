@@ -74,3 +74,9 @@
 </div>
 
 ###
+
+<br><h2>😲 My Contributions</h2>
+<div>
+  https://github.com/legendryflyer/legendryflyer/blob/output/github-contribution-grid-snake.gif
+  ![snake gif](https://github.com/legendryflyer/legendryflyer/blob/output/github-contribution-grid-snake.gif)
+</div>
