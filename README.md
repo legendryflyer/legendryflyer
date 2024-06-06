@@ -1,23 +1,23 @@
-<h2 align="left">Hi 👋! My name is Tavish Anade and I'm a Developer, from Nagpur, <img src="https://flagcdn.com/w40/in.png"
+<h2 align="center">Hi 👋! My name is Tavish Anade and I'm a Developer, from Nagpur, <img src="https://flagcdn.com/w40/in.png"
   srcset="https://flagcdn.com/w80/in.png 2x"
   width="40"
   height="27"
   alt="India"></img> India.<br/>
 </h2>
 
-<h2 align="left">About  Me </h2>
-<p align="left">--Creating Bugs since 2023.<br/>--I am currently learning React.js and Django.<br/>--Goles: Get Successfull at the age of 24.<br/>--Fun Fact: I hate Physics.<br/>
---My E-mail: tavishanade12@gmail.com<br/>
+<h2 align="center">About  Me </h2>
+<p align="center">Creating Bugs since 2023.<br/>I am currently learning React.js and Django.<br/>Fun Fact: I hate Physics.<br/>
+tavishanade12@gmail.com<br/>
 </p>
 
-<h2 align="left">GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=legendryflyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendryflyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=legendryflyer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 <div>
   <a href="https://javascript.info/" target="_blank">
     <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="images/javascript-39404.png" />
@@ -50,7 +50,7 @@
 
 ###
 
-<br/><h2 align="left">Follow Me on </h2>
+<br/><h2 align="center">Follow Me on </h2>
 
 <div>
   <a href="https://www.instagram.com/_.tavish" target="_blank">
@@ -75,8 +75,8 @@
 
 ###
 
-<br><h2>😲 My Contributions</h2>
-<div>
-  https://github.com/legendryflyer/legendryflyer/blob/output/github-contribution-grid-snake.gif
-  ![snake gif](https://github.com/legendryflyer/legendryflyer/blob/output/github-contribution-grid-snake.gif)
-</div>
+<br><h2 align="center">😲 My Contributions</h2>
+
+![snake gif](https://github.com/legendryflyer/legendryflyer/blob/output/github-contribution-grid-snake.svg)
+
+
