@@ -6,7 +6,7 @@
 </h2>
 
 <h2 align="center">About  Me </h2>
-<p align="center">Creating Bugs since 2023.<br/>I am currently learning React.js and Django.<br/>Fun Fact: I hate Physics.<br/>
+<p align="center">Creating Bugs since 2023.<br/>I am currently learning React.js and Node.js.<br/>Fun Fact: I hate Physics.<br/>
 tavishanade12@gmail.com<br/>
 </p>
 
