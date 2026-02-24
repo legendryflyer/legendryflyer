@@ -5,10 +5,10 @@
   alt="India"></img> India.<br/>
 </h2>
 
-<h2 align="center">About  Me </h2>
+<!-- <h2 align="center">About  Me </h2> -->
 <!-- <p align="center">Creating Bugs since 2023.<br/>.<br/><br/> -->
-tavishanade12@gmail.com<br/>
-</p>
+
+<!-- </p> -->
 
 <h2 align="center">GitHub Statistics</h2>
 <div align="center">
