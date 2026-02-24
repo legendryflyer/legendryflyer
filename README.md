@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Tavish Anade and I'm a Developer, AI and Robotics Enthuziest, from Nagpur, <img src="https://flagcdn.com/w40/in.png"
+<h2 align="center">Hi 👋! My name is Tavish Anade, and I'm a Developer, AI and Robotics Enthusiast, from Nagpur, <img src="https://flagcdn.com/w40/in.png"
   srcset="https://flagcdn.com/w80/in.png 2x"
   width="40"
   height="27"
